@@ -1,6 +1,7 @@
 # Project_31
 Our team for the Transport'X 48-hour hackathon of Ecole Polytechnique.
-Contributors:
+
+## Contributors:
 * Alexandre MISRAHI
 * Malo LAHOGUE
 * Tim VALENCONY
